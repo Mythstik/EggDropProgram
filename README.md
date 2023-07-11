@@ -1,2 +1,2 @@
 # EggDropProgram
-A program i wrote to solve th computer science egg drop problem
+A program i wrote to solve the computer science egg drop problem
